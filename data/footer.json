@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Resources",
+    "links": [
+      { "href": "/ai-blog", "label": "Ai Blog" },
+      { "href": "/seo-blog", "label": "Seo Blog" },
+      { "href": "/design-agency", "label": "Design Agency" },
+      { "href": "/digital-agency", "label": "Digital Agency" },
+      { "href": "/portfolio-agency/case-study", "label": "Case Study" },
+      { "href": "/pricing", "label": "Pricing" }
+    ]
+  },
+  {
+    "title": "Company",
+    "links": [
+      { "href": "/about", "label": "About" },
+      { "href": "/about-02", "label": "About 02" },
+      { "href": "/faq", "label": "FAQ" },
+      { "href": "/contact", "label": "Contact" },
+      { "href": "/terms", "label": "Terms of Service" },
+      { "href": "/policy", "label": "Privacy Policy" },
+      { "href": "/career", "label": "Career" }
+    ]
+  },
+  {
+    "title": "Important Link",
+    "links": [
+      { "href": "/career-02", "label": "Career 02" },
+      { "href": "/career/software-developer", "label": "Career Details" },
+      { "href": "/team", "label": "Team" },
+      { "href": "/team/1", "label": "Team Details" },
+      { "href": "/changelog", "label": "Changelog" },
+      { "href": "/password", "label": "Password Protected" },
+      { "href": "/404", "label": "404" }
+    ]
+  }
+]
