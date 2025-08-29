@@ -13,7 +13,7 @@ import MarqueeV2 from '@/components/shared/MarqueeV2'
 import getMarkDownData from '@/utils/GetMarkDownData'
 
 export const metadata = {
-  title: 'AI Solutions - Rivor',
+  title: 'AI Solutions - Intelleragency',
 }
 
 interface BlogsType {

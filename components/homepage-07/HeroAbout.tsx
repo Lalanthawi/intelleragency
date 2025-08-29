@@ -12,7 +12,7 @@ const HeroAbout = ({ spacingTop }: PropsTypes) => {
   return spacingTop ? (
     <RevealWrapper className={`${spacingTop} container`}>
       <h3 ref={revealRef} className="reveal-text-2 text-secondary dark:text-backgroundBody">
-        Rivor Agency: Shaping the Future of Digital Innovation. We are dedicated to empowering blockchain pioneers and
+        Intelleragency: Shaping the Future of Digital Innovation. We are dedicated to empowering blockchain pioneers and
         transforming the realm of digital ownership for today and beyond. images
       </h3>
     </RevealWrapper>

@@ -30,7 +30,7 @@ const HeroV14 = () => {
           <i className="font-instrument text-inherit">experiences</i>
         </h1>
         <p className="max-w-3xl text-backgroundBody/70">
-          From award-winning films to high-end commercials, Rivor blends artistry and technology to bring your vision to
+          From award-winning films to high-end commercials, Intelleragency blends artistry and technology to bring your vision to
           life.
         </p>
         {/* Primary CTA Button */}

@@ -21,7 +21,7 @@ const data: ITestimonial[] = [
   {
     id: 1,
     feedback:
-      'Rivor completely transformed our brand identity. Their creativity and attention to detail exceeded our expectations!',
+      'Intelleragency completely transformed our brand identity. Their creativity and attention to detail exceeded our expectations!',
     date: '03 Feb, 2024',
     name: 'Leslie Alexander',
     position: 'Product Designer',
@@ -29,7 +29,7 @@ const data: ITestimonial[] = [
   },
   {
     id: 2,
-    feedback: 'An amazing experience working with Rivor. The team is professional, efficient, and creative!',
+    feedback: 'An amazing experience working with Intelleragency. The team is professional, efficient, and creative!',
     date: '15 Mar, 2024',
     name: 'Jane Cooper',
     position: 'Marketing Specialist',
@@ -37,7 +37,7 @@ const data: ITestimonial[] = [
   },
   {
     id: 3,
-    feedback: 'Rivor provided top-notch service. Their expertise helped us scale our business!',
+    feedback: 'Intelleragency provided top-notch service. Their expertise helped us scale our business!',
     date: '28 Apr, 2024',
     name: 'Robert Fox',
     position: 'Business Owner',
@@ -45,7 +45,7 @@ const data: ITestimonial[] = [
   },
   {
     id: 4,
-    feedback: 'The design and development team at Rivor is phenomenal. I highly recommend them!',
+    feedback: 'The design and development team at Intelleragency is phenomenal. I highly recommend them!',
     date: '10 May, 2024',
     name: 'Emily Davis',
     position: 'UX Designer',
@@ -54,7 +54,7 @@ const data: ITestimonial[] = [
   {
     id: 5,
     feedback:
-      'Rivor completely transformed our brand identity. Their creativity and attention to detail exceeded our expectations!',
+      'Intelleragency completely transformed our brand identity. Their creativity and attention to detail exceeded our expectations!',
     date: '03 Feb, 2024',
     name: 'Leslie Alexander',
     position: 'Product Designer',
@@ -62,7 +62,7 @@ const data: ITestimonial[] = [
   },
   {
     id: 6,
-    feedback: 'An amazing experience working with Rivor. The team is professional, efficient, and creative!',
+    feedback: 'An amazing experience working with Intelleragency. The team is professional, efficient, and creative!',
     date: '15 Mar, 2024',
     name: 'Jane Cooper',
     position: 'Marketing Specialist',

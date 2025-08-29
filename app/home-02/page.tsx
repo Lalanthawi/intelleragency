@@ -10,7 +10,7 @@ import LayoutOne from '@/components/shared/LayoutOne'
 import Video from '@/components/shared/Video'
 
 export const metadata = {
-  title: 'Digital Solutions Agency - Rivor',
+  title: 'Digital Solutions Agency - Intelleragency',
 }
 
 const homepage2 = () => {

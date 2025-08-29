@@ -11,7 +11,7 @@ const HeroV6 = () => {
         <div className="container">
           <RevealWrapper className="text-center">
             <h1 className="font-semibold">
-              <span className="block font-instrument font-normal italic">Rivor</span>
+              <span className="block font-instrument font-normal italic">Intelleragency</span>
               Creative Design Agency
             </h1>
             <ul className="mt-10 flex list-none justify-center md:mt-14">

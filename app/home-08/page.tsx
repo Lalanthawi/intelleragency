@@ -11,7 +11,7 @@ import Marquee from '@/components/shared/Marquee'
 import TestimonialV2 from '@/components/shared/TestimonialV2'
 
 export const metadata = {
-  title: 'Business Solutions - Rivor',
+  title: 'Business Solutions - Intelleragency',
 }
 
 const page = () => {

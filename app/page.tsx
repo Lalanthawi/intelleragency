@@ -12,7 +12,7 @@ import ServicesV8 from '@/components/shared/ServicesV8'
 import Video from '@/components/shared/Video'
 
 export const metadata = {
-  title: 'Rivor | Design Agency',
+  title: 'Intelleragency | Design Agency',
 }
 
 const Home = () => {

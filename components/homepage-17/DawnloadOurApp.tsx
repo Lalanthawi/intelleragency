@@ -20,7 +20,7 @@ const DawnloadOurApp = () => {
             </TextAppearAnimation>
             <TextAppearAnimation>
               <p className="text-appear mt-5 text-backgroundBody/70 md:mt-10 md:text-right">
-                Download now and see what Rivor can build for you.
+                Download now and see what Intelleragency can build for you.
               </p>
             </TextAppearAnimation>
             <RevealWrapper

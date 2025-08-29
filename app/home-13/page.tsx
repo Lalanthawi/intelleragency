@@ -11,7 +11,7 @@ import LayoutTwo from '@/components/shared/LayoutTwo'
 import TestimonialV2 from '@/components/shared/TestimonialV2'
 
 export const metadata = {
-  title: 'Travel Agency - Rivor',
+  title: 'Travel Agency - Intelleragency',
 }
 
 const homepage13 = () => {

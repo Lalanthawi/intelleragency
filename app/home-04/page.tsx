@@ -11,7 +11,7 @@ import CtaImageSlider from '@/components/shared/CtaImageSlider'
 import LayoutOne from '@/components/shared/LayoutOne'
 
 export const metadata = {
-  title: 'Photography Studio - Rivor',
+  title: 'Photography Studio - Intelleragency',
 }
 
 const homepage4 = () => {

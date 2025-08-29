@@ -5,7 +5,7 @@ const HeroV4 = () => {
         <h1 className="text-appear absolute top-1/2 -translate-y-1/2">
           Empowering the <br />
           <span className="font-instrument italic"> possibilities</span> of AI <br />
-          with Rivor
+          with Intelleragency
         </h1>
       </div>
     </section>

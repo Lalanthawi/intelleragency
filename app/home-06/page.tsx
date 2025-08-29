@@ -11,7 +11,7 @@ import CtaImageSlider from '@/components/shared/CtaImageSlider'
 import LayoutOne from '@/components/shared/LayoutOne'
 
 export const metadata = {
-  title: 'Creative Agency - Rivor',
+  title: 'Creative Agency - Intelleragency',
 }
 
 const page = () => {

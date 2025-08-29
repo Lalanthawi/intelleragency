@@ -15,7 +15,7 @@ const HeroV17 = () => {
             Turn your vision into <br />a high- <i className="inline font-instrument">performing mobile</i> app.
           </h1>
           <p className="mx-auto mb-8 max-w-xl md:mb-14 lg:max-w-[750px] xl:mb-[76px]">
-            At Rivor, we specialize in AI-driven, user-centric, scalable app solutions designed to transform businesses.
+            At Intelleragency, we specialize in AI-driven, user-centric, scalable app solutions designed to transform businesses.
           </p>
           <ul className="flex list-none items-center justify-center gap-4 md:gap-6">
             <li className="mx-auto block w-[90%] md:inline-block md:w-auto">

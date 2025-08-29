@@ -95,7 +95,7 @@ const HeroV8 = () => {
 
       <RevealWrapper className="relative z-10 px-4 text-center">
         <h1 className="text-7xl font-medium uppercase sm:text-8xl md:text-[255px] lg:text-[338px] lg:leading-[338px] lg:tracking-[-10.14px]">
-          RIVOR
+          INTELLERAGENCY
         </h1>
         <h2 className="mt-6 md:mt-10 lg:mt-20">
           Powering <br />

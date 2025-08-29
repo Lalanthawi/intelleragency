@@ -8,7 +8,7 @@ const WhyChooseUsV7 = () => {
       <div className="container">
         <div className="mx-auto mb-10 max-w-3xl text-center md:mb-16">
           <RevealWrapper className="reveal-me relative mx-auto mb-3 w-[300px] text-sm font-normal uppercase text-black before:absolute before:left-4 before:top-1/2 before:h-px before:w-[50px] before:bg-black/70 before:content-[''] after:absolute after:right-4 after:top-1/2 after:h-px after:w-[50px] after:bg-black/70 after:content-[''] dark:text-white dark:before:bg-backgroundBody/70 dark:after:bg-backgroundBody/70 md:w-[400px] md:before:w-[80px] md:after:w-[80px]">
-            <span>Why Choose Rivor</span>
+            <span>Why Choose Intelleragency</span>
           </RevealWrapper>
           <TextAppearAnimation>
             <h2 className="text-appear lg:leading-[1.1]">
@@ -18,7 +18,7 @@ const WhyChooseUsV7 = () => {
           </TextAppearAnimation>
           <TextAppearAnimation>
             <p className="text-appear mt-4 font-normal text-black/70 dark:text-backgroundBody/70">
-              At Rivor, we don’t just plan events; we create experiences. Here’s why our clients trust us
+              At Intelleragency, we don’t just plan events; we create experiences. Here’s why our clients trust us
             </p>
           </TextAppearAnimation>
         </div>
@@ -139,10 +139,10 @@ const WhyChooseUsV7 = () => {
           <li className="mx-auto block w-full text-center md:inline-block md:w-auto">
             <Link href="/contact" className="rv-button rv-button-primary block md:inline-block">
               <div className="rv-button-top">
-                <span>Discover The Rivor Advantage</span>
+                <span>Discover The Intelleragency Advantage</span>
               </div>
               <div className="rv-button-bottom text-nowrap">
-                <span>Discover The Rivor Advantage</span>
+                <span>Discover The Intelleragency Advantage</span>
               </div>
             </Link>
           </li>

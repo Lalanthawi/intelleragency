@@ -7,7 +7,7 @@ import LayoutOne from '@/components/shared/LayoutOne'
 import ServicesV8 from '@/components/shared/ServicesV8'
 
 export const metadata = {
-  title: 'Personal Branding - Rivor',
+  title: 'Personal Branding - Intelleragency',
 }
 const page = () => {
   return (

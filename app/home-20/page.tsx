@@ -12,7 +12,7 @@ import LayoutTwo from '@/components/shared/LayoutTwo'
 import VideoV2 from '@/components/shared/VideoV2'
 
 export const metadata = {
-  title: 'Social Media Marketing Agency - Rivor',
+  title: 'Social Media Marketing Agency - Intelleragency',
 }
 
 const homepage20 = () => {

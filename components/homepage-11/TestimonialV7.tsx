@@ -6,7 +6,7 @@ import TextAppearAnimation from '../animation/TextAppearAnimation'
 const data = [
   {
     id: 1,
-    reviewText: 'Rivor Films transformed our brand’s message into an unforgettable visual',
+    reviewText: 'Intelleragency Films transformed our brand’s message into an unforgettable visual',
     authorName: 'Kristin Watson',
     authorRole: 'CEO, Tech Innovators',
     authorImage: '/images/home-ai/team/ai-team-1.png',
@@ -14,7 +14,7 @@ const data = [
   },
   {
     id: 2,
-    reviewText: 'The team at Rivor Films exceeded our expectations and delivered stunning results.',
+    reviewText: 'The team at Intelleragency Films exceeded our expectations and delivered stunning results.',
     authorName: 'John Doe',
     authorRole: 'Marketing Director, Creative Agency',
     authorImage: '/images/home-ai/team/ai-team-2.png',
@@ -22,7 +22,7 @@ const data = [
   },
   {
     id: 3,
-    reviewText: 'Working with Rivor Films was a game changer for our project.',
+    reviewText: 'Working with Intelleragency Films was a game changer for our project.',
     authorName: 'Alice Smith',
     authorRole: 'Creative Director, Design Studio',
     authorImage: '/images/home-ai/team/ai-team-3.png',
@@ -30,7 +30,7 @@ const data = [
   },
   {
     id: 4,
-    reviewText: 'The creativity and professionalism of Rivor Films is unmatched.',
+    reviewText: 'The creativity and professionalism of Intelleragency Films is unmatched.',
     authorName: 'Bob Johnson',
     authorRole: 'Founder, Startup Inc.',
     authorImage: '/images/home-ai/team/ai-team-4.png',
@@ -38,7 +38,7 @@ const data = [
   },
   {
     id: 5,
-    reviewText: 'The creativity and professionalism of Rivor Films is unmatched.',
+    reviewText: 'The creativity and professionalism of Intelleragency Films is unmatched.',
     authorName: 'Zaks Johnson',
     authorRole: 'Founder, Startup Inc.',
     authorImage: '/images/home-ai/team/ai-team-5.png',

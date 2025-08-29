@@ -9,7 +9,7 @@ const SeoServiceV2 = () => {
           <RevealWrapper
             as="p"
             className="text-center font-satoshi text-sm font-normal uppercase leading-6 tracking-[3px]">
-            Why Choose Rivor
+            Why Choose Intelleragency
           </RevealWrapper>
           <TextAppearAnimation>
             <h2 className="text-appear mt-3 text-center lg:mt-5">Expert SEO services for growth</h2>

@@ -5,14 +5,14 @@ import PortfolioV8 from '@/components/homepage-11/PortfolioV8'
 import ProcessV6 from '@/components/homepage-11/ProcessV6'
 import ServicesV10 from '@/components/homepage-11/ServicesV10'
 import TestimonialV7 from '@/components/homepage-11/TestimonialV7'
-import WhyRivor from '@/components/homepage-11/WhyRivor'
+import WhyIntelleragency from '@/components/homepage-11/WhyIntelleragency'
 import CTA from '@/components/shared/CTA'
 import CtaImageSlider from '@/components/shared/CtaImageSlider'
 import LayoutTwo from '@/components/shared/LayoutTwo'
 import VideoV2 from '@/components/shared/VideoV2'
 
 export const metadata = {
-  title: 'Video Photography Agency - Rivor',
+  title: 'Video Photography Agency - Intelleragency',
 }
 
 const homepage11 = () => {
@@ -24,7 +24,7 @@ const homepage11 = () => {
       <ServicesV10 />
       <PortfolioV8 />
       <TestimonialV7 />
-      <WhyRivor />
+      <WhyIntelleragency />
       <ProcessV6 />
       <InstagramGallery />
       <CTA>

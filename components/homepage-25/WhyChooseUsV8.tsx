@@ -39,7 +39,7 @@ const WhyChooseUsV8 = () => {
             <TextAppearAnimation>
               <h2 className="text-appear">
                 Why choose
-                <i className="font-instrument"> Rivor? </i>
+                <i className="font-instrument"> Intelleragency? </i>
               </h2>
             </TextAppearAnimation>
           </div>
@@ -89,7 +89,7 @@ const WhyChooseUsV8 = () => {
           <RevealWrapper as="figure" className="reveal-me md:w-1/2">
             <Image
               src="/images/home-5/why-rivor-v3.png"
-              alt="Why Choose Rivor"
+              alt="Why Choose Intelleragency"
               width={600}
               height={700}
               className="h-full w-full object-cover"

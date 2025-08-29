@@ -12,7 +12,7 @@ import LayoutTwo from '@/components/shared/LayoutTwo'
 import Video from '@/components/shared/Video'
 
 export const metadata = {
-  title: 'Insurance Agency - Rivor',
+  title: 'Insurance Agency - Intelleragency',
 }
 
 const homepage23 = () => {
@@ -22,7 +22,7 @@ const homepage23 = () => {
       <Video />
       <AboutV15
         title="Expert advice. Personalized insurance solutions."
-        subTitle="For over [X] years, Rivor has been a leading insurance consultancy firm, helping businesses and individuals navigate the complexities of insurance. Our expertise spans risk management, claims assistance, regulatory compliance, and customized insurance planning."
+        subTitle="For over [X] years, Intelleragency has been a leading insurance consultancy firm, helping businesses and individuals navigate the complexities of insurance. Our expertise spans risk management, claims assistance, regulatory compliance, and customized insurance planning."
         description="From intimate gatherings to grand celebrations, our team ensures seamless coordination, innovative designs, and stress-free execution to create lasting impressions."
         buttonText="Meet Our Experts"
         buttonLink="/team"

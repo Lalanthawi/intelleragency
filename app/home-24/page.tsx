@@ -11,7 +11,7 @@ import CtaImageSlider from '@/components/shared/CtaImageSlider'
 import LayoutTwo from '@/components/shared/LayoutTwo'
 
 export const metadata = {
-  title: 'Management Consulting Agency - Rivor',
+  title: 'Management Consulting Agency - Intelleragency',
 }
 
 const homepage23 = () => {

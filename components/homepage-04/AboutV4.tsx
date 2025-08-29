@@ -39,7 +39,7 @@ const AboutV4 = () => {
             <Image src={aboutImg} alt="About me" className="max-lg:w-full" />
             <div>
               <p className="text-lg leading-[1.6] tracking-[0.36px]">
-                At Rivor Travels, we believe that travel is more than just visiting new places—it's about creating
+                At Intelleragency Travels, we believe that travel is more than just visiting new places—it's about creating
                 unforgettable memories. With years of experience, global connections, and a passion for exploration, we
                 specialize in designing customized itineraries that match your style, budget, and dreams.
               </p>

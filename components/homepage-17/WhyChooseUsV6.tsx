@@ -9,7 +9,7 @@ const WhyChooseUsV6 = () => {
         <div className="mb-16 flex flex-col items-start justify-center gap-x-10 gap-y-4 md:flex-row lg:mb-24 lg:justify-between">
           <div className="md:w-[60%] md:self-start">
             <RevealWrapper className="rv-badge mb-2">
-              <span className="rv-badge-text">Why Choose Rivor</span>
+              <span className="rv-badge-text">Why Choose Intelleragency</span>
             </RevealWrapper>
             <TextAppearAnimation>
               <h2 className="text-appear lg:leading-[1.1]">

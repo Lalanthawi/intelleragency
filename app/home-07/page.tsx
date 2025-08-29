@@ -9,7 +9,7 @@ import ServicesV6 from '@/components/shared/ServicesV6'
 import TestimonialV2 from '@/components/shared/TestimonialV2'
 
 export const metadata = {
-  title: 'Design Studio - Rivor',
+  title: 'Design Studio - Intelleragency',
 }
 
 const page = () => {

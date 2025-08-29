@@ -16,7 +16,7 @@ import { MarkdownData } from '@/interface'
 import getMarkDownData from '@/utils/GetMarkDownData'
 
 export const metadata = {
-  title: 'Seo Agency - Rivor',
+  title: 'Seo Agency - Intelleragency',
 }
 
 const servicesData: MarkdownData[] = getMarkDownData('data/seo-agency/services').sort(

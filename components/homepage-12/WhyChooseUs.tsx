@@ -9,11 +9,11 @@ const WhyChooseUs = () => {
         <div className="mb-8 text-center md:mb-14">
           <TextAppearAnimation>
             <h2 className="text-appear mt-3">
-              Why choose <i className="font-instrument">Rivor?</i>
+              Why choose <i className="font-instrument">Intelleragency?</i>
             </h2>
           </TextAppearAnimation>
           <TextAppearAnimation>
-            <p className="text-appear">The Rivor Advantage — All That Works for You</p>
+            <p className="text-appear">The Intelleragency Advantage — All That Works for You</p>
           </TextAppearAnimation>
         </div>
         <div className="flex flex-col-reverse gap-x-[30px] gap-y-8 md:flex-row">

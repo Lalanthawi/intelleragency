@@ -9,7 +9,7 @@ const HeroV4 = () => {
       <HeroGradientAnimation />
       <div className="container">
         <h1 className="text-center text-[80px] uppercase sm:text-[100px] md:text-[240px] lg:text-[340px] xl:text-[420px] xl:leading-[404px] xl:tracking-[-12.12px]">
-          Rivor
+          Intelleragency
         </h1>
       </div>
     </RevealWrapper>

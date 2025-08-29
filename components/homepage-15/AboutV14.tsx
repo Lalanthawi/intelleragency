@@ -22,7 +22,7 @@ const AboutV14 = () => {
         </div>
         <RevealWrapper className="max-w-full md:max-w-sm lg:max-w-md xl:max-w-3xl">
           <h5 ref={revealRef} className="text-secondary/70 dark:text-backgroundBody/70 md:text-right">
-            At Rivor Branding, we think a brand is way more than just a logo—it’s all about the experience, the
+            At Intelleragency Branding, we think a brand is way more than just a logo—it’s all about the experience, the
             connection, and the promise you make. We’re here to help businesses find their voice, create their identity,
             and come up with a strategy that sets them up for lasting success.
           </h5>

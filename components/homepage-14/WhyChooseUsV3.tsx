@@ -8,7 +8,7 @@ const WhyChooseUsV3 = () => {
       <div className="container">
         <div className="mb-8 text-center md:mb-14">
           <RevealWrapper className="rv-badge">
-            <span className="rv-badge-text">Why Choose Rivor</span>
+            <span className="rv-badge-text">Why Choose Intelleragency</span>
           </RevealWrapper>
           <TextAppearAnimation>
             <h2 className="text-appear my-3 max-sm:text-[28px]">

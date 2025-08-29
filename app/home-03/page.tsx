@@ -10,7 +10,7 @@ import FaqV2 from '@/components/shared/FaqV2'
 import LayoutOne from '@/components/shared/LayoutOne'
 
 export const metadata = {
-  title: 'Portfolio Agency - Rivor',
+  title: 'Portfolio Agency - Intelleragency',
 }
 
 const homepage3 = () => {
