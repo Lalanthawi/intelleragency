@@ -11,7 +11,7 @@ import CtaImageSlider from '@/components/shared/CtaImageSlider'
 import LayoutTwo from '@/components/shared/LayoutTwo'
 
 export const metadata = {
-  title: 'Strategic Branding - Intelleragency',
+  title: 'Strategic Branding - Inteller Agency',
 }
 
 const homepage15 = () => {

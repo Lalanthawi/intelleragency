@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "question": "What services does Rivor offer?",
-    "answer": "Rivor provides a range of digital services including web design, development, SEO, branding, mobile app development, and digital marketing. The email automation company also enhances the UX using a sidebar with a category overview and jump-to links, information about additional resources, and messages that encourage sales conversions."
+    "question": "What services does our digital agency offer?",
+    "answer": "We provide comprehensive digital solutions including web design and development, mobile app development, SEO optimization, branding and identity design, digital marketing campaigns, social media management, and content creation. Our team specializes in creating innovative digital experiences that drive business growth."
   },
   {
     "id": 2,
-    "question": "How long does a project typically take to complete?",
-    "answer": "Project timelines vary depending on the scope and complexity. We work with you to set clear deadlines and ensure timely delivery."
+    "question": "How long does a typical digital project take?",
+    "answer": "Project timelines vary based on scope and complexity. A typical website takes 6-12 weeks, mobile apps 3-6 months, and branding projects 2-4 weeks. We provide detailed timelines during our initial consultation and keep you updated throughout the process."
   },
   {
     "id": 3,
-    "question": "Can Rivor handle both small and large-scale projects?",
-    "answer": "Yes, we are equipped to handle projects of any size, from small startups to large enterprises, tailoring our approach to meet your specific needs."
+    "question": "Do you work with businesses of all sizes?",
+    "answer": "Absolutely! Our digital agency serves everyone from startups and small businesses to large enterprises. We scale our services and team to match your project requirements and budget, ensuring personalized attention regardless of project size."
   },
   {
     "id": 4,
-    "question": "How involved will I be in the project?",
-    "answer": "We value collaboration and will keep you updated at every stage. Your input is crucial to ensure we align with your vision and goals."
+    "question": "What is your digital project process?",
+    "answer": "Our process includes discovery, strategy, design, development, testing, and launch phases. We maintain transparent communication throughout, with regular check-ins, progress reports, and collaborative feedback sessions to ensure the final product exceeds your expectations."
   },
   {
     "id": 5,
-    "question": "Do you provide post-launch support?",
-    "answer": "Absolutely! We offer ongoing support and maintenance to ensure your project runs smoothly after launch."
+    "question": "Do you offer ongoing support after project completion?",
+    "answer": "Yes! We provide comprehensive post-launch support including maintenance, updates, performance monitoring, and technical assistance. We also offer retainer packages for ongoing digital marketing, content updates, and continuous optimization."
   }
 ]

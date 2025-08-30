@@ -14,7 +14,7 @@ import { Metadata } from 'next'
 import { BlogType } from '../ai-blog/page'
 
 export const metadata: Metadata = {
-  title: 'PR & Communications Agency - Intelleragency',
+  title: 'PR & Communications Agency - Inteller Agency',
 }
 
 const blogPosts: BlogType[] = getMarkDownData('data/communication-agency/blog')

@@ -33,7 +33,7 @@ const WhyChooseUsV2 = () => {
           <div className="flex-1 md:self-start">
             <TextAppearAnimation>
               <h2 className="text-appear">
-                Why choose Intelleragency
+                Why choose Inteller Agency
                 <i className="font-instrument"> travels? </i>
               </h2>
             </TextAppearAnimation>

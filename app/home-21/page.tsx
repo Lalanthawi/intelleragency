@@ -12,7 +12,7 @@ import LayoutTwo from '@/components/shared/LayoutTwo'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Law Firm Agency - Intelleragency',
+  title: 'Law Firm Agency - Inteller Agency',
 }
 const Homepage21 = () => {
   return (

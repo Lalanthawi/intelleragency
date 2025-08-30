@@ -6,7 +6,7 @@ const FooterV2 = () => {
     <footer className="w-full overflow-hidden">
       <div className="bg-backgroundBody dark:bg-secondary">
         <h5 className="footer-text-v2 w-full text-nowrap text-center font-satoshi text-[120px] font-medium uppercase leading-[100%] sm:text-[200px] md:text-[258px] lg:text-[300px] xl:text-[350px] 2xl:text-[386px]">
-          Intelleragency
+          Inteller Agency
         </h5>
       </div>
       <div className="-mt-10 bg-backgroundBody py-4 dark:bg-dark sm:-mt-[70px] md:-mt-24 xl:-mt-28">
@@ -16,7 +16,7 @@ const FooterV2 = () => {
             {/* Reach Us Section */}
             <div className="pr-8 max-lg:basis-full">
               <p className="mb-5 max-w-[360px]">
-                Intelleragency offers global business and technology services, transforming brands with customized
+                Inteller Agency offers global business and technology services, transforming brands with customized
                 solutions for over a decade.
               </p>
               <h5 className="mb-3 font-satoshi text-2xl font-medium leading-[1.1]">Address</h5>
@@ -26,7 +26,7 @@ const FooterV2 = () => {
               </p>
               <div className="mt-7 flex gap-6 md:mt-10">
                 <span>
-                  <Link href="https://www.facebook.com/staticmania">
+                  <Link href="https://www.facebook.com/yourdigitalagency">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       width={23}
@@ -49,7 +49,7 @@ const FooterV2 = () => {
                   </Link>
                 </span>
                 <span>
-                  <Link href="https://www.youtube.com/channel/UCAaNCn1kzI1fXD4-fPD157Q">
+                  <Link href="https://www.youtube.com/@yourdigitalagency">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       className="stroke-[#565656] duration-200 hover:stroke-primary"
@@ -67,7 +67,7 @@ const FooterV2 = () => {
                   </Link>
                 </span>
                 <span>
-                  <Link href="https://www.instagram.com/staticmania">
+                  <Link href="https://www.instagram.com/yourdigitalagency">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       className="stroke-[#565656] duration-200 hover:stroke-primary"
@@ -92,7 +92,7 @@ const FooterV2 = () => {
                   </Link>
                 </span>
                 <span>
-                  <Link href="https://dribbble.com/staticmania/">
+                  <Link href="https://dribbble.com/yourdigitalagency">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       className="stroke-[#565656] duration-200 hover:stroke-primary"
@@ -124,7 +124,7 @@ const FooterV2 = () => {
                   </Link>
                 </span>
                 <span>
-                  <Link href="https://www.figma.com/@staticmania">
+                  <Link href="https://www.figma.com/@yourdigitalagency">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       className="stroke-[#565656] duration-200 hover:stroke-primary"
@@ -161,7 +161,7 @@ const FooterV2 = () => {
                   </Link>
                 </span>
                 <span>
-                  <Link href="https://discord.gg/fSxDJyvJmr">
+                  <Link href="https://discord.gg/yourdigitalagency">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       className="stroke-[#565656] duration-200 hover:stroke-primary"
@@ -229,7 +229,7 @@ const FooterV2 = () => {
                   </Link>
                 </span>
                 <span>
-                  <Link href="https://www.linkedin.com/company/staticmania/">
+                  <Link href="https://www.linkedin.com/company/yourdigitalagency">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       className="stroke-[#565656] duration-200 hover:stroke-primary"

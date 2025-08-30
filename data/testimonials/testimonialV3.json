@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "avatar": "/images/avatar/review-1.png",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&q=80",
     "name": "Wade Warren",
     "position": "Product Designer",
     "quote": "Sed rem perspiciatis unde omnis iste natus quae ab illo inventore veritatis et quasi.",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "avatar": "/images/avatar/review-2.png",
+    "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150&q=80",
     "name": "Marvin McKinney",
     "position": "Manager at Lattice",
     "quote": "Sed rem perspiciatis unde omnis iste natus quae ab illo inventore veritatis et quasi.",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "avatar": "/images/avatar/review-3.png",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&q=80",
     "name": "Arlene McCoy",
     "position": "General Manager at Lattice",
     "quote": "Sed rem perspiciatis unde omnis iste natus quae ab illo inventore veritatis et quasi.",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "avatar": "/images/avatar/review-4.png",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&q=80",
     "name": "Eleanor Pena",
     "position": "Software Engineer at TechCorp",
     "quote": "Sed rem perspiciatis unde omnis iste natus quae ab illo inventore veritatis et quasi.",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "avatar": "/images/avatar/review-5.png",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616c4e88769?w=150&q=80",
     "name": "Theresa Webb",
     "position": "UX Specialist at Designify",
     "quote": "Sed rem perspiciatis unde omnis iste natus quae ab illo inventore veritatis et quasi.",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "avatar": "/images/avatar/review-11.png",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&q=80",
     "name": "Darlene Robertson",
     "position": "Marketing Lead at InnovateHub",
     "quote": "Sed rem perspiciatis unde omnis iste natus quae ab illo inventore veritatis et quasi.",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "avatar": "/images/avatar/review-1.png",
+    "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=150&q=80",
     "name": "Courtney Henry",
     "position": "Data Scientist at InsightsPro",
     "quote": "Sed rem perspiciatis unde omnis iste natus quae ab illo inventore veritatis et quasi.",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "avatar": "/images/avatar/review-4.png",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150&q=80",
     "name": "Ronald Richards",
     "position": "Project Manager at BuildMaster",
     "quote": "Sed rem perspiciatis unde omnis iste natus quae ab illo inventore veritatis et quasi.",

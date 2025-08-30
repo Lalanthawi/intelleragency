@@ -20,7 +20,7 @@ const WhatWeOffer = () => {
               </TextAppearAnimation>
               <TextAppearAnimation>
                 <p className="text-appear text-base font-normal text-black/70 dark:text-backgroundBody/70 md:text-lg md:leading-[28.8px] md:tracking-[0.36px]">
-                  At Intelleragency, we specialize in business strategy, operations, and leadership consulting to help companies
+                  At Inteller Agency, we specialize in business strategy, operations, and leadership consulting to help companies
                   overcome challenges and scale efficiently.
                 </p>
               </TextAppearAnimation>

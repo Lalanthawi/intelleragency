@@ -10,7 +10,7 @@ import CtaImageSlider from '@/components/shared/CtaImageSlider'
 import LayoutTwo from '@/components/shared/LayoutTwo'
 
 export const metadata = {
-  title: 'Film Production Agency  - Intelleragency',
+  title: 'Film Production Agency  - Inteller Agency',
 }
 
 const homepage14 = () => {

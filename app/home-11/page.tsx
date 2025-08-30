@@ -12,7 +12,7 @@ import LayoutTwo from '@/components/shared/LayoutTwo'
 import VideoV2 from '@/components/shared/VideoV2'
 
 export const metadata = {
-  title: 'Video Photography Agency - Intelleragency',
+  title: 'Video Photography Agency - Inteller Agency',
 }
 
 const homepage11 = () => {

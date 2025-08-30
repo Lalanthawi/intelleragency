@@ -39,7 +39,7 @@ const HeroV3 = () => {
         Agency
       </h1>
       <h2 className="absolute left-[20%] mt-8 text-6xl leading-[1.1] sm:text-8xl md:text-[100px] lg:text-[140px] xl:text-[238px]">
-        Intelleragency
+        Inteller Agency
       </h2>
     </section>
   )

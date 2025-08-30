@@ -113,7 +113,7 @@ const HeroV12 = () => {
         </TextAppearAnimation>
         <TextAppearAnimation>
           <p className="text-appear mx-auto mt-3 max-w-3xl text-center">
-            From intelligent automation to groundbreaking AI solutions, Intelleragency transforms how businesses operate,
+            From intelligent automation to groundbreaking AI solutions, Inteller Agency transforms how businesses operate,
             innovate, and grow.
           </p>
         </TextAppearAnimation>

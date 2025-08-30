@@ -4,7 +4,7 @@ import GradientCta from '@/components/shared/GradientCta'
 import LayoutOne from '@/components/shared/LayoutOne'
 
 export const metadata = {
-  title: 'Digital Agency Projects - Intelleragency',
+  title: 'Digital Agency Projects - Inteller Agency',
 }
 
 const DigitalAgencyProject = () => {

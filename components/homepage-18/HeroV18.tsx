@@ -26,7 +26,7 @@ const HeroV18 = () => {
             The right words. <i className="font-instrument">The right strategy.</i> The right results.
           </h1>
           <p className="md:max-w-[670px]">
-            We are Intelleragency, a copywriting and content agency dedicated to helping brands grow through engaging,
+            We are Inteller Agency, a copywriting and content agency dedicated to helping brands grow through engaging,
             high-impact writing.
           </p>
           {/* CTA Buttons */}

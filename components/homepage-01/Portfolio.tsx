@@ -30,7 +30,7 @@ const Portfolio = () => {
           <div className="flex-1">
             <TextAppearAnimation>
               <p className="text-appear md:text-right">
-                Discover how Intelleragency brings brands to life with impactful digital solutions.Our portfolio showcases
+                Discover how Inteller Agency brings brands to life with impactful digital solutions.Our portfolio showcases
                 quality and creativity in every project.
               </p>
             </TextAppearAnimation>

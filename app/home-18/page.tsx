@@ -11,7 +11,7 @@ import LayoutTwo from '@/components/shared/LayoutTwo'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Copy Write Agency  - Intelleragency',
+  title: 'Copy Write Agency  - Inteller Agency',
 }
 
 const homepage18 = () => {

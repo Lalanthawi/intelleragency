@@ -13,7 +13,7 @@ import CtaImageSlider from '@/components/shared/CtaImageSlider'
 import LayoutTwo from '@/components/shared/LayoutTwo'
 
 export const metadata = {
-  title: 'Startup Agency - Intelleragency',
+  title: 'Startup Agency - Inteller Agency',
 }
 
 const homepage19 = () => {
@@ -23,7 +23,7 @@ const homepage19 = () => {
       <AboutV15
         badge="About Us"
         title="Data driven agency for visionary startups"
-        subTitle="At Intelleragency Marketing Agency, we believe in creating impactful, data-driven marketing campaigns that connect brands with their audiences. Our team of strategists, creatives, and data analysts work together to deliver measurable results that fuel business growth."
+        subTitle="At Inteller Agency Marketing Agency, we believe in creating impactful, data-driven marketing campaigns that connect brands with their audiences. Our team of strategists, creatives, and data analysts work together to deliver measurable results that fuel business growth."
         description="With years of experience in startup acceleration, we craft innovative strategies that help businesses thrive in competitive markets."
         buttonText="Learn More "
         buttonLink="/about"

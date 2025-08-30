@@ -10,7 +10,7 @@ const HeroV2 = () => {
         <p className="flex items-center justify-center gap-5 text-sm font-normal uppercase leading-6 tracking-[3px] lg:justify-start">
           <span>Design Agency</span>
           <span className="inline-block h-[1px] w-[150px] bg-dark dark:bg-[#ffffffb3]"></span>
-          <span>Intelleragency</span>
+          <span>Inteller Agency</span>
         </p>
         <h1 className="mt-5 max-lg:text-center sm:mt-10">
           Transforming Ideas into Digital

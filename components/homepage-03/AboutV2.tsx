@@ -11,7 +11,7 @@ const AboutV2 = () => {
       <div className="container">
         <div>
           <h3 ref={revealRef} className="text-secondary dark:text-backgroundBody md:text-5xl md:leading-[1.5]">
-            Intelleragency: Shaping the Future of Digital Innovation. We are dedicated to empowering blockchain pioneers
+            Inteller Agency: Shaping the Future of Digital Innovation. We are dedicated to empowering blockchain pioneers
             and transforming the realm of digital ownership for today and beyond.
           </h3>
 

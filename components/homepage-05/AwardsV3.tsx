@@ -25,7 +25,7 @@ const AwardsV3 = () => {
           </TextAppearAnimation>
           <TextAppearAnimation>
             <p className="text-appear mt-1.5 text-center">
-              Intelleragency is a WordPress web design and SEO company with proven results.
+              Inteller Agency is a WordPress web design and SEO company with proven results.
               <br className="hidden md:block" />
               Use some award images
             </p>

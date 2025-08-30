@@ -8,7 +8,7 @@ const OurExpertiseV2 = () => {
       <div className="container">
         <div className="mb-8 text-center md:mb-14">
           <RevealWrapper className="rv-badge reveal-me">
-            <span className="rv-badge-text">Why Choose Intelleragency</span>
+            <span className="rv-badge-text">Why Choose Inteller Agency</span>
           </RevealWrapper>
           <TextAppearAnimation>
             <h2 className="text-appear my-3">

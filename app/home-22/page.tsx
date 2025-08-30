@@ -12,7 +12,7 @@ import LayoutTwo from '@/components/shared/LayoutTwo'
 import getMarkDownData from '@/utils/GetMarkDownData'
 
 export const metadata = {
-  title: 'Event Planner Agency - Intelleragency',
+  title: 'Event Planner Agency - Inteller Agency',
 }
 
 export interface ServicesType {
@@ -30,7 +30,7 @@ const homepage22 = () => {
       <AboutV15
         badge="About Us"
         title="Creating flawless events with a personal touch"
-        subTitle="With over 15 years of experience and 2.4K+ successful events, Intelleragency is your trusted partner in planning, designing, and executing extraordinary events. We believe every occasion is unique and deserves meticulous attention to details."
+        subTitle="With over 15 years of experience and 2.4K+ successful events, Inteller Agency is your trusted partner in planning, designing, and executing extraordinary events. We believe every occasion is unique and deserves meticulous attention to details."
         description="From intimate gatherings to grand celebrations, our team ensures seamless coordination, innovative designs, and stress-free execution to create lasting impressions."
         buttonText="Meet Our Team"
         buttonLink="/team"

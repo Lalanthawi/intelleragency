@@ -21,7 +21,7 @@ const HeroV13 = () => {
             <i className="font-instrument"> expertly planned</i>
           </h1>
           <p className="mx-auto mt-3 max-w-3xl text-center">
-            From exotic escapes to thrilling adventures, Intelleragency Travels creates experiences that go beyond expectations.
+            From exotic escapes to thrilling adventures, Inteller Agency Travels creates experiences that go beyond expectations.
             Your dream trip starts here!
           </p>
           {/* Hero Buttons */}

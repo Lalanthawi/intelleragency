@@ -10,7 +10,7 @@ import LayoutOne from '@/components/shared/LayoutOne'
 import ServicesV8 from '@/components/shared/ServicesV8'
 
 export const metadata = {
-  title: 'Service Agency - Intelleragency',
+  title: 'Service Agency - Inteller Agency',
 }
 
 const homepage10 = () => {

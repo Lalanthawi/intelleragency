@@ -53,7 +53,7 @@ const HeroV25 = () => {
             </RevealWrapper>
 
             <RevealWrapper as="p" className="reveal-me max-w-xl">
-              At Intelleragency, we craft strategic PR campaigns that elevate brands, manage crises, and build lasting trust.
+              At Inteller Agency, we craft strategic PR campaigns that elevate brands, manage crises, and build lasting trust.
             </RevealWrapper>
 
             <RevealWrapperV2 className="reveal-me mt-7 md:mt-9 lg:mt-14">

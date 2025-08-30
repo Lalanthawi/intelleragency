@@ -10,12 +10,12 @@ const WhyChooseUsV8 = () => {
           <TextAppearAnimation>
             <h2 className="text-appear lg:leading-[1.1]">
               Why choose
-              <span className="font-instrument italic"> intelleragency? </span>
+              <span className="font-instrument italic"> Inteller Agency? </span>
             </h2>
           </TextAppearAnimation>
           <TextAppearAnimation>
             <p className="text-appear mt-3 text-lg font-normal text-black/70 dark:text-backgroundBody/70">
-              At Intelleragency, we don’t just plan events; we create experiences. Here’s why our clients trust us
+              At Inteller Agency, we don’t just plan events; we create experiences. Here’s why our clients trust us
             </p>
           </TextAppearAnimation>
         </div>

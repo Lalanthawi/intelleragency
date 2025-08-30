@@ -11,7 +11,7 @@ import FaqV2 from '@/components/shared/FaqV2'
 import LayoutTwo from '@/components/shared/LayoutTwo'
 
 export const metadata = {
-  title: 'App Development  - Intelleragency',
+  title: 'App Development  - Inteller Agency',
 }
 
 const homepage17 = () => {

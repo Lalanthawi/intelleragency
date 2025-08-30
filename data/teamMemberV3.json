@@ -1,7 +1,7 @@
 [
   {
     "id": "team-member-01",
-    "image": "/images/home-ai/team/ai-team-1.png",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
     "title": "Henry",
     "position": "Founder",
     "description": "Enthusiasts of open-source and no-code tools, a professional UI/UX designer with 17 years of industry experience. Leading innovation in design systems and user-centered solutions.",
@@ -13,7 +13,7 @@
   },
   {
     "id": "team-member-02",
-    "image": "/images/home-ai/team/ai-team-2.png",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
     "title": "Addison",
     "position": "Founder",
     "description": "Expert in motion design and branding. Addison brings a decade of experience transforming digital identities through creative storytelling.",
@@ -25,7 +25,7 @@
   },
   {
     "id": "team-member-03",
-    "image": "/images/team/team-2.png",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&q=80",
     "title": "David Kim",
     "position": "Founder",
     "description": "David is a full-stack developer and startup advisor. Known for rapid prototyping and building scalable SaaS platforms.",
@@ -37,7 +37,7 @@
   },
   {
     "id": "team-member-04",
-    "image": "/images/home-ai/team/ai-team-4.png",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80",
     "title": "John Carter",
     "position": "Founder",
     "description": "Specialist in business development and digital marketing. John helps brands scale with a performance-first approach.",
@@ -49,7 +49,7 @@
   },
   {
     "id": "team-member-05",
-    "image": "/images/team/team-3.png",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
     "title": "Emily",
     "position": "Founder",
     "description": "Emily is a creative technologist, blending art and code to create immersive experiences across web and mobile.",
@@ -61,7 +61,7 @@
   },
   {
     "id": "team-member-06",
-    "image": "/images/team/team-4.png",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
     "title": "Thompson",
     "position": "Founder",
     "description": "Thompson is a data visualization expert and analytics engineer who tells stories through numbers and interactive charts.",
