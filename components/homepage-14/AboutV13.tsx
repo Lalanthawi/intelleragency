@@ -16,9 +16,9 @@ const AboutV13 = () => {
             <h2 className="text-appear mb-6">Pioneering creativity in film &amp; Media</h2>
           </TextAppearAnimation>
           <RevealWrapper as="h5">
-            Inteller Agency is a leading film production agency dedicated to crafting powerful visual narratives. With a team of
-            visionary filmmakers, cinematographers, and VFX artists, we deliver world-class productions across feature
-            films, commercials, documentaries, and branded content.
+            Inteller Agency is a leading film production agency dedicated to crafting powerful visual narratives. With a
+            team of visionary filmmakers, cinematographers, and VFX artists, we deliver world-class productions across
+            feature films, commercials, documentaries, and branded content.
           </RevealWrapper>
           <RevealWrapper as="p" className="mx-auto mt-3 max-w-3xl">
             Our mission is simple: to create breathtaking cinematic experiences that captivate audiences and leave a

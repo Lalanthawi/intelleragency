@@ -30,8 +30,8 @@ const Portfolio = () => {
           <div className="flex-1">
             <TextAppearAnimation>
               <p className="text-appear md:text-right">
-                Discover how Inteller Agency brings brands to life with impactful digital solutions.Our portfolio showcases
-                quality and creativity in every project.
+                Discover how Inteller Agency brings brands to life with impactful digital solutions.Our portfolio
+                showcases quality and creativity in every project.
               </p>
             </TextAppearAnimation>
             <RevealWrapper as="ul" className="reveal-me mt-5 justify-self-end max-md:w-full md:mt-10">

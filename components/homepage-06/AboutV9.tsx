@@ -24,9 +24,9 @@ const AboutV9 = () => {
         <h3
           ref={revealRef}
           className="text-center text-2xl font-normal text-secondary/90 dark:text-backgroundBody/70 lg:text-3xl lg:leading-[1.2] lg:tracking-[0.72px] xl:text-4xl">
-          At Inteller Agency, we believe design goes beyond aesthetics—it’s about crafting meaningful connections that inspire,
-          engage, and leave a lasting impact. Our approach blends creativity with strategy, ensuring that every design
-          element serves a purpose. Whether it’s branding, user experience, or digital interfaces, we focus on
+          At Inteller Agency, we believe design goes beyond aesthetics—it’s about crafting meaningful connections that
+          inspire, engage, and leave a lasting impact. Our approach blends creativity with strategy, ensuring that every
+          design element serves a purpose. Whether it’s branding, user experience, or digital interfaces, we focus on
           innovation that resonates with your audience.
         </h3>
 

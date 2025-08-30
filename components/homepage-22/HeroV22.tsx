@@ -33,8 +33,8 @@ const HeroV22 = () => {
           <i className="font-instrument text-inherit">exceptional events</i>
         </h1>
         <p className="mx-auto max-w-3xl">
-          At Inteller Agency Law Firm, we combine decades of experience with a relentless commitment to justice, ensuring you
-          receive the expert legal counsel you deserve.
+          At Inteller Agency Law Firm, we combine decades of experience with a relentless commitment to justice,
+          ensuring you receive the expert legal counsel you deserve.
         </p>
 
         <div className="mt-7 flex list-none justify-center lg:mt-14">

@@ -24,8 +24,8 @@ const Hero21 = () => {
           <i className="font-instrument text-inherit">Protecting your future</i>
         </h1>
         <p className="max-w-3xl text-backgroundBody/70 max-sm:text-sm">
-          At Inteller Agency Law Firm, we combine decades of experience with a relentless commitment to justice, ensuring you
-          receive the expert legal counsel you deserve.
+          At Inteller Agency Law Firm, we combine decades of experience with a relentless commitment to justice,
+          ensuring you receive the expert legal counsel you deserve.
         </p>
         {/* Primary CTA Button */}
         <ul className="mt-7 flex list-none justify-start lg:mt-14">

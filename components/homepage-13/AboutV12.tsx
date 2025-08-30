@@ -23,9 +23,9 @@ const AboutV12 = () => {
           </figure>
           <figcaption>
             <p className="max-w-xl">
-              At Inteller Agency Travels, we believe that travel is more than just visiting new places—it's about creating
-              unforgettable memories. With years of experience, global connections, and a passion for exploration, we
-              specialize in designing customized itineraries that match your style, budget, and dreams.
+              At Inteller Agency Travels, we believe that travel is more than just visiting new places—it's about
+              creating unforgettable memories. With years of experience, global connections, and a passion for
+              exploration, we specialize in designing customized itineraries that match your style, budget, and dreams.
             </p>
             <ul className="mt-20 justify-self-start max-md:w-full md:mt-36">
               <li className="mx-auto block w-full text-center md:inline-block md:w-auto">

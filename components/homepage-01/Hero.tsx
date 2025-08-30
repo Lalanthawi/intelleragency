@@ -19,8 +19,8 @@ const Hero = () => {
             <i className="font-instrument italic">Design</i> Solutions
           </h1>
           <p className="mx-auto mb-10 max-w-xl md:mb-14 lg:max-w-[750px] xl:mb-[76px]">
-            Turn your vision into reality with Inteller Agency. We blend design, strategy, and technology to build powerful
-            digital experiences that elevate your brand.
+            Turn your vision into reality with Inteller Agency. We blend design, strategy, and technology to build
+            powerful digital experiences that elevate your brand.
           </p>
 
           <ul className="flex list-none flex-col items-center justify-center gap-4 md:flex-row md:gap-6">

@@ -22,9 +22,9 @@ const AboutV14 = () => {
         </div>
         <RevealWrapper className="max-w-full md:max-w-sm lg:max-w-md xl:max-w-3xl">
           <h5 ref={revealRef} className="text-secondary/70 dark:text-backgroundBody/70 md:text-right">
-            At Inteller Agency Branding, we think a brand is way more than just a logo—it’s all about the experience, the
-            connection, and the promise you make. We’re here to help businesses find their voice, create their identity,
-            and come up with a strategy that sets them up for lasting success.
+            At Inteller Agency Branding, we think a brand is way more than just a logo—it’s all about the experience,
+            the connection, and the promise you make. We’re here to help businesses find their voice, create their
+            identity, and come up with a strategy that sets them up for lasting success.
           </h5>
           <RevealWrapper as="ul" className="mt-7 justify-self-end max-md:w-full md:mt-10">
             <li className="mx-auto block w-full text-center md:inline-block md:w-auto">
