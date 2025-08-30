@@ -31,9 +31,9 @@ const Home = () => {
         Let's chat!
         <CtaImageSlider
           slides={[
-            { id: '1', img: '/images/agent/01.jpg' },
-            { id: '2', img: '/images/agent/02.jpg' },
-            { id: '3', img: '/images/agent/03.jpg' },
+            { id: '1', img: 'https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&h=400&q=80&fit=crop' },
+            { id: '2', img: 'https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=400&h=400&q=80&fit=crop' },
+            { id: '3', img: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&h=400&q=80&fit=crop' },
           ]}
         />
         with us.

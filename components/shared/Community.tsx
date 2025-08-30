@@ -1,4 +1,4 @@
-import communityImg from '@/public/images/community-image.jpg'
+// Using Unsplash image for community
 import Image from 'next/image'
 import Link from 'next/link'
 import RevealWrapper from '../animation/RevealWrapper'
@@ -37,7 +37,13 @@ const Community = () => {
               </Link>
             </div>
             <figure className="max-md:w-full">
-              <Image src={communityImg} alt="Community Discussion" className="max-md:w-full" />
+              <Image
+                src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=600&h=400&q=80&fit=crop"
+                alt="Community Discussion"
+                width={600}
+                height={400}
+                className="max-md:w-full"
+              />
             </figure>
           </RevealWrapper>
 

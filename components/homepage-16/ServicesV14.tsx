@@ -12,7 +12,7 @@ interface WorkType {
   [key: string]: any
 }
 
-const services: WorkType[] = getMarkDownData('data/servicesV3')
+const services: WorkType[] = getMarkDownData('data/services')
 
 const ServicesV14 = () => {
   return (
@@ -23,14 +23,14 @@ const ServicesV14 = () => {
         </RevealWrapperV2>
         <TextAppearAnimation02>
           <h2 className="text-appear mb-3">
-            Marketing solutions designed for <br />
-            <i className="font-instrument"> maximum impact</i>
+            Creative solutions designed for <br />
+            <i className="font-instrument"> your success</i>
           </h2>
         </TextAppearAnimation02>
         <TextAppearAnimation>
           <p className="text-appear mx-auto lg:max-w-[770px]">
-            Our marketing solutions boost engagement and ROI with targeted campaigns, improving brand visibility through
-            SEO and social media.
+            From branding and design to digital marketing and development, our comprehensive services help businesses
+            thrive in the digital age with innovative, results-driven solutions.
           </p>
         </TextAppearAnimation>
       </div>
@@ -39,7 +39,7 @@ const ServicesV14 = () => {
           <RevealWrapper
             key={service.slug}
             className="reveal-me group border px-6 py-9 dark:border-dark lg:px-[30px] lg:py-[50px]">
-            <Link href={`/marketing/services/${service.slug}`}>
+            <Link href={`/services/${service.slug}`}>
               <figure>
                 <Image
                   src={service.logo}

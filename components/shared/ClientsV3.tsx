@@ -2,8 +2,20 @@ import Marquee from 'react-fast-marquee'
 import RevealWrapper from '../animation/RevealWrapper'
 
 // Data-----------------
-const topContent = ['Creative Development', 'Visual Design', 'Creative Development', 'Visual Design']
-const bottomContent = ['Since 1993', 'Based in New York', 'Award-Winning Agency', 'Since 1993', 'Based in New York']
+const topContent = [
+  'Digital Innovation',
+  'Creative Excellence',
+  'Brand Strategy',
+  'Digital Innovation',
+  'Creative Excellence',
+]
+const bottomContent = [
+  'Global Reach',
+  'Trusted by 500+ Brands',
+  'Award-Winning Team',
+  'Results Driven',
+  'Future Forward',
+]
 
 const ClientsV3 = () => {
   return (

@@ -1,24 +1,27 @@
 ---
 title: 'Pay-Per-Click (PPC) Advertising'
-description: 'Maximize ROI with targeted PPC campaigns on Google, Facebook, and more. We optimize ad spend and focus on driving high-quality leads.'
+description: 'Strategic paid advertising campaigns across all major platforms that maximize ROI and deliver immediate, measurable results for your business.'
 coverImage: '/images/services/services-details2-img.png'
 badge: 'Services details'
 logo: '/images/services/icon/ad.svg'
 logoDark: '/images/services/icon/ad-dark.svg'
+feature: ['Google Ads Management', 'Social Media Advertising', 'Remarketing Campaigns']
 ---
 
 ### Service overview
 
-At Rivor, we specialize in delivering comprehensive solutions that empower designers and businesses to bring their online visions to life. Our Figma to Framer conversion service streamlines the process of turning your Figma designs into stunning, fully functional websites on the Framer platform. With our expert team of developers and designers, we ensure a smooth transition from design to deployment, allowing you to focus on your core objectives while we take care of the technical details.
+Our PPC advertising services deliver immediate visibility and targeted traffic through strategic paid campaigns. We manage your advertising budget efficiently across multiple platforms, ensuring every dollar spent drives meaningful results through data-driven optimization and continuous performance improvement.
 
 ### Our service includes
 
-In-Depth Research and Analysis: We conduct thorough research to understand your brand, target audience, and industry trends, ensuring your website aligns with your business goals.
+**Google Ads Management:** Search, Display, Shopping, and YouTube campaigns optimized for maximum conversions.
 
-Competitor Analysis: A comprehensive review of your competitors' digital presence to identify opportunities and gaps, helping you stand out in the market.
+**Social Media Advertising:** Targeted campaigns on Facebook, Instagram, LinkedIn, Twitter, and TikTok tailored to your audience.
 
-User Experience (UX) Research: We gather insights on user behavior to inform design decisions, creating a website that offers an intuitive and engaging experience for visitors.
+**Campaign Strategy & Setup:** Comprehensive campaign planning, audience targeting, and budget allocation for optimal results.
 
-SEO and Content Strategy Research: We develop strategies based on keyword research and content trends to improve your site's visibility and search ranking
+**Ad Creative Development:** Compelling ad copy and visuals that capture attention and drive action.
 
-Technology and Platform Research: Our team evaluates the best technologies and platforms to ensure your website is built with the latest tools for optimal performance and scalability. the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to
+**Conversion Tracking & Optimization:** Advanced tracking setup and continuous optimization to improve campaign performance.
+
+**Remarketing Campaigns:** Strategic retargeting to re-engage visitors and maximize conversion opportunities.

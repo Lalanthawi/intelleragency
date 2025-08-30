@@ -1,24 +1,27 @@
 ---
-title: 'E-commerce Website & Solutions'
-description: 'Building robust and scalable e-commerce platforms that convert. From design to checkout, we streamline the user journey to maximize sales.'
+title: 'E-Commerce Website Solutions'
+description: 'End-to-end e-commerce solutions that transform online selling with secure, user-friendly platforms optimized for conversions and growth.'
 coverImage: '/images/services/services-details2-img.png'
 badge: 'Services details'
 logo: '/images/services/icon/shopping-cart.svg'
 logoDark: '/images/services/icon/shopping-cart-dark.svg'
+feature: ['Custom E-Commerce Development', 'Payment Gateway Integration', 'Mobile Commerce Solutions']
 ---
 
 ### Service overview
 
-At Rivor, we specialize in delivering comprehensive solutions that empower designers and businesses to bring their online visions to life. Our Figma to Framer conversion service streamlines the process of turning your Figma designs into stunning, fully functional websites on the Framer platform. With our expert team of developers and designers, we ensure a smooth transition from design to deployment, allowing you to focus on your core objectives while we take care of the technical details.
+Our e-commerce solutions empower businesses to succeed in the digital marketplace. We create comprehensive online selling platforms that combine beautiful design with powerful functionality, ensuring your customers enjoy a seamless shopping experience while you benefit from robust management tools and analytics.
 
 ### Our service includes
 
-In-Depth Research and Analysis: We conduct thorough research to understand your brand, target audience, and industry trends, ensuring your website aligns with your business goals.
+**Custom E-Commerce Development:** Tailored online stores built on platforms like Shopify, WooCommerce, or custom solutions.
 
-Competitor Analysis: A comprehensive review of your competitors' digital presence to identify opportunities and gaps, helping you stand out in the market.
+**Payment Gateway Integration:** Secure integration with multiple payment providers for seamless transactions.
 
-User Experience (UX) Research: We gather insights on user behavior to inform design decisions, creating a website that offers an intuitive and engaging experience for visitors.
+**Product Catalog Management:** Intuitive systems for managing products, inventory, and variations.
 
-SEO and Content Strategy Research: We develop strategies based on keyword research and content trends to improve your site's visibility and search ranking
+**Shopping Cart Optimization:** Streamlined checkout processes designed to minimize abandonment and maximize conversions.
 
-Technology and Platform Research: Our team evaluates the best technologies and platforms to ensure your website is built with the latest tools for optimal performance and scalability. the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to
+**Mobile Commerce:** Responsive designs and mobile-first approaches to capture the growing mobile shopping market.
+
+**Analytics & Reporting:** Comprehensive dashboards for tracking sales, customer behavior, and business performance.

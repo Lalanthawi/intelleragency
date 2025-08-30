@@ -1,24 +1,27 @@
 ---
-title: 'Branding & Identity Design'
-description: 'Creating unique and memorable brand identities. We develop logos, brand guidelines, and collateral to set your business apart from the competition.'
+title: 'Branding & Identity'
+description: 'We help businesses define who they are and how they look through comprehensive brand identity solutions that resonate with your target audience.'
 coverImage: '/images/services/services-details2-img.png'
 badge: 'Services details'
 logo: '/images/services/icon/brand-nem.svg'
 logoDark: '/images/services/icon/brand-nem-dark.svg'
+feature: ['Logo Design & Brand Identity', 'Brand Guidelines & Strategy', 'Rebranding Solutions']
 ---
 
 ### Service overview
 
-At Rivor, we specialize in delivering comprehensive solutions that empower designers and businesses to bring their online visions to life. Our Figma to Framer conversion service streamlines the process of turning your Figma designs into stunning, fully functional websites on the Framer platform. With our expert team of developers and designers, we ensure a smooth transition from design to deployment, allowing you to focus on your core objectives while we take care of the technical details.
+Creative agencies help businesses define who they are and how they look. Our branding and identity services create a cohesive visual and verbal language that sets your business apart. We develop comprehensive brand systems that resonate across all touchpoints, from digital platforms to physical materials, ensuring your brand message is consistent, memorable, and impactful.
 
 ### Our service includes
 
-In-Depth Research and Analysis: We conduct thorough research to understand your brand, target audience, and industry trends, ensuring your website aligns with your business goals.
+**Logo Design & Brand Identity:** Creating distinctive logos and visual identities that capture your brand's essence and values.
 
-Competitor Analysis: A comprehensive review of your competitors' digital presence to identify opportunities and gaps, helping you stand out in the market.
+**Brand Guidelines:** Developing comprehensive brand books covering colors, typography, tone of voice, and usage guidelines to ensure consistency across all applications.
 
-User Experience (UX) Research: We gather insights on user behavior to inform design decisions, creating a website that offers an intuitive and engaging experience for visitors.
+**Tagline & Messaging Development:** Crafting compelling taglines and key messages that communicate your unique value proposition.
 
-SEO and Content Strategy Research: We develop strategies based on keyword research and content trends to improve your site's visibility and search ranking
+**Rebranding Strategies:** Refreshing and modernizing existing brands while maintaining equity and recognition.
 
-Technology and Platform Research: Our team evaluates the best technologies and platforms to ensure your website is built with the latest tools for optimal performance and scalability. the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to
+**Brand Positioning:** Defining your unique place in the market and differentiating your brand from competitors.
+
+**Visual System Development:** Creating cohesive visual languages including patterns, icons, and graphic elements that extend your brand identity.

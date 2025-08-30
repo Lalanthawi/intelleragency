@@ -1,6 +1,5 @@
 import gradientBg from '@/public/images/gradient-bg.png'
 import Image from 'next/image'
-import CtaImageSlider from './CtaImageSlider'
 
 const GradientCta = () => {
   const renderForm = () => (
@@ -26,15 +25,7 @@ const GradientCta = () => {
       <div className="container">
         <div className="reveal-me">
           <h2 className="text-center font-normal xl:text-[96px] xl:leading-[1.4] xl:tracking-[-2.88px]">
-            Let's chat!
-            <CtaImageSlider
-              slides={[
-                { id: '1', img: '/images/agent/01.jpg' },
-                { id: '2', img: '/images/agent/02.jpg' },
-                { id: '3', img: '/images/agent/03.jpg' },
-              ]}
-            />
-            with us.
+            Let's chat! with us.
             <i className="block font-instrument italic max-md:inline-block max-sm:pl-1.5">A virtual coffee?</i>
           </h2>
         </div>

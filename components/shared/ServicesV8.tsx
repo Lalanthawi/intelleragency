@@ -8,9 +8,10 @@ export interface ServicesType {
   content: string
   [key: string]: any
 }
-const loadedData: ServicesType[] = getMarkDownData('data/servicesV2')
+const loadedData: ServicesType[] = getMarkDownData('data/services')
 
-const services = loadedData.filter((data) => data.feature)
+// Select featured services to display on homepage
+const services = loadedData.slice(0, 4) // Show first 4 services
 
 const ServicesV8 = () => {
   return (
@@ -88,15 +89,17 @@ const ServicesV8 = () => {
               <p className="translate-y-5 text-backgroundBody/70 opacity-0 transition-all delay-[340ms] duration-[800ms] group-hover:translate-y-0 group-hover:opacity-100 dark:text-backgroundBody/70">
                 {service.description}
               </p>
-              <ul className="mt-6 translate-y-5 pl-4 opacity-0 transition-all delay-[440ms] duration-[800ms] group-hover:translate-y-0 group-hover:opacity-100">
-                {service.feature.map((point: string, index: string) => (
-                  <li
-                    key={point}
-                    className="leading-relexed list-disc text-base text-backgroundBody/70 dark:text-backgroundBody/70">
-                    {point}
-                  </li>
-                ))}
-              </ul>
+              {service.feature && (
+                <ul className="mt-6 translate-y-5 pl-4 opacity-0 transition-all delay-[440ms] duration-[800ms] group-hover:translate-y-0 group-hover:opacity-100">
+                  {service.feature.map((point: string) => (
+                    <li
+                      key={point}
+                      className="leading-relexed list-disc text-base text-backgroundBody/70 dark:text-backgroundBody/70">
+                      {point}
+                    </li>
+                  ))}
+                </ul>
+              )}
             </div>
           </RevealWrapper>
         ))}

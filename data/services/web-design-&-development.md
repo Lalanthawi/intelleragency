@@ -1,24 +1,27 @@
 ---
-title: 'Web Design & Development'
-description: 'Crafting visually engaging and high-performance websites tailored to client needs. Our responsive designs ensure seamless user experiences across all devices.'
+title: 'Website & App Design/Development'
+description: 'Specializing in UI/UX design and digital products that deliver exceptional user experiences and drive business growth.'
 coverImage: '/images/services/services-details2-img.png'
 badge: 'Services details'
 logo: '/images/services/icon/design-development.svg'
 logoDark: '/images/services/icon/design-development-dark.svg'
+feature: ['Custom Website Development', 'Mobile App Design', 'UI/UX & Prototyping']
 ---
 
 ### Service overview
 
-At Rivor, we specialize in delivering comprehensive solutions that empower designers and businesses to bring their online visions to life. Our Figma to Framer conversion service streamlines the process of turning your Figma designs into stunning, fully functional websites on the Framer platform. With our expert team of developers and designers, we ensure a smooth transition from design to deployment, allowing you to focus on your core objectives while we take care of the technical details.
+Many agencies specialize in UI/UX design and digital products, and we're at the forefront of creating exceptional digital experiences. Our team combines aesthetic excellence with functional design to build websites and applications that not only look stunning but also provide intuitive user experiences that convert visitors into customers.
 
 ### Our service includes
 
-In-Depth Research and Analysis: We conduct thorough research to understand your brand, target audience, and industry trends, ensuring your website aligns with your business goals.
+**Website Design & Development:** Custom websites built with modern technologies, responsive across all devices, and optimized for performance.
 
-Competitor Analysis: A comprehensive review of your competitors' digital presence to identify opportunities and gaps, helping you stand out in the market.
+**Web App and Mobile App Design:** User-centered design for web and mobile applications that prioritize usability and engagement.
 
-User Experience (UX) Research: We gather insights on user behavior to inform design decisions, creating a website that offers an intuitive and engaging experience for visitors.
+**Landing Page Creation:** High-converting landing pages designed to capture leads and drive specific actions.
 
-SEO and Content Strategy Research: We develop strategies based on keyword research and content trends to improve your site's visibility and search ranking
+**Prototyping & Wireframing:** Interactive prototypes and detailed wireframes to validate concepts before development.
 
-Technology and Platform Research: Our team evaluates the best technologies and platforms to ensure your website is built with the latest tools for optimal performance and scalability. the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to
+**Conversion Rate Optimization (CRO):** Data-driven improvements to increase conversions and maximize your digital investment.
+
+**UI/UX Design:** Intuitive interfaces and seamless user experiences that delight users and achieve business objectives.

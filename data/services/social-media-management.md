@@ -1,24 +1,27 @@
 ---
 title: 'Social Media Management'
-description: 'Enhance your brands presence on social platforms through targeted campaigns. We manage content, engagement, and ads to drive audience growth.'
+description: 'Full-service social media strategies that build communities, drive engagement, and deliver measurable business results across all platforms.'
 coverImage: '/images/services/services-details2-img.png'
 badge: 'Services details'
 logo: '/images/services/icon/social-media.svg'
 logoDark: '/images/services/icon/social-media-dark.svg'
+feature: ['Content Creation & Curation', 'Community Management', 'Social Media Advertising']
 ---
 
 ### Service overview
 
-At Rivor, we specialize in delivering comprehensive solutions that empower designers and businesses to bring their online visions to life. Our Figma to Framer conversion service streamlines the process of turning your Figma designs into stunning, fully functional websites on the Framer platform. With our expert team of developers and designers, we ensure a smooth transition from design to deployment, allowing you to focus on your core objectives while we take care of the technical details.
+Our comprehensive social media management services help brands build authentic connections with their audiences. We handle everything from strategy development to daily management, ensuring your brand maintains a consistent, engaging presence across all social platforms while driving meaningful business results.
 
 ### Our service includes
 
-In-Depth Research and Analysis: We conduct thorough research to understand your brand, target audience, and industry trends, ensuring your website aligns with your business goals.
+**Strategy Development:** Custom social media strategies aligned with your business goals and target audience.
 
-Competitor Analysis: A comprehensive review of your competitors' digital presence to identify opportunities and gaps, helping you stand out in the market.
+**Content Creation & Curation:** Original, engaging content including graphics, videos, and copy tailored for each platform.
 
-User Experience (UX) Research: We gather insights on user behavior to inform design decisions, creating a website that offers an intuitive and engaging experience for visitors.
+**Community Management:** Active engagement with your audience, responding to comments, messages, and building relationships.
 
-SEO and Content Strategy Research: We develop strategies based on keyword research and content trends to improve your site's visibility and search ranking
+**Social Media Advertising:** Targeted ad campaigns on Facebook, Instagram, LinkedIn, Twitter, and TikTok to maximize reach and ROI.
 
-Technology and Platform Research: Our team evaluates the best technologies and platforms to ensure your website is built with the latest tools for optimal performance and scalability. the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to
+**Influencer Partnerships:** Identifying and managing relationships with influencers to expand your brand's reach and credibility.
+
+**Analytics & Reporting:** Comprehensive performance tracking with actionable insights to continuously improve results.

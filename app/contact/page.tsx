@@ -1,4 +1,4 @@
-import ContactForm from '@/components/contactpage/ContactForm'
+import ContactFormSimple from '@/components/contactpage/ContactFormSimple'
 import CTA from '@/components/shared/CTA'
 import CtaImageSlider from '@/components/shared/CtaImageSlider'
 import LayoutOne from '@/components/shared/LayoutOne'
@@ -14,11 +14,11 @@ const ContactPage = () => {
       <PageHero
         title="Let's Work Together"
         badgeTitle="Contact"
-        description="Discover our innovative, cutting-edge no-code websites, crafted to effortlessly captivate and engage your visitors."
+        description="Ready to transform your vision into reality? Get in touch with our team and let's discuss how we can help grow your business."
         scale
         spacing="pt-[130px] md:pt-[180px] pb-20 sm:pb-32 md:pb-36 lg:pb-36 xl:pb-[100px] relative overflow-hidden"
       />
-      <ContactForm />
+      <ContactFormSimple />
       <CTA>
         Let's chat!
         <CtaImageSlider

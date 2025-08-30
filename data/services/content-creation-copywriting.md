@@ -1,24 +1,27 @@
 ---
-title: 'Content Creation & Copywriting'
-description: 'Delivering high-quality content that resonates with your audience. Our team creates blogs, articles, and marketing copy to amplify your message.'
+title: 'Content Creation & Strategy'
+description: 'Content is a huge part of creative agency services. We craft compelling narratives and strategic content that drives engagement and builds brand loyalty.'
 coverImage: '/images/services/services-details2-img.png'
 badge: 'Services details'
 logo: '/images/services/icon/pencil-minus.svg'
 logoDark: '/images/services/icon/pencil-minus-dark.svg'
+feature: ['Blog & Copywriting', 'Social Media Content', 'Brand Storytelling']
 ---
 
 ### Service overview
 
-At Rivor, we specialize in delivering comprehensive solutions that empower designers and businesses to bring their online visions to life. Our Figma to Framer conversion service streamlines the process of turning your Figma designs into stunning, fully functional websites on the Framer platform. With our expert team of developers and designers, we ensure a smooth transition from design to deployment, allowing you to focus on your core objectives while we take care of the technical details.
+Content is a huge part of creative agency services, and we excel at creating strategic content that resonates with your audience. Our comprehensive content services combine creative storytelling with data-driven strategies to produce content that not only engages but also converts, building lasting connections between brands and their customers.
 
 ### Our service includes
 
-In-Depth Research and Analysis: We conduct thorough research to understand your brand, target audience, and industry trends, ensuring your website aligns with your business goals.
+**Blog Writing & Copywriting:** SEO-optimized blog posts and compelling copy that drives traffic and engages readers.
 
-Competitor Analysis: A comprehensive review of your competitors' digital presence to identify opportunities and gaps, helping you stand out in the market.
+**Social Media Content Calendars:** Strategic content planning and creation for consistent brand presence across all social platforms.
 
-User Experience (UX) Research: We gather insights on user behavior to inform design decisions, creating a website that offers an intuitive and engaging experience for visitors.
+**Photography & Product Shoots:** Professional photography services that showcase your products and services in their best light.
 
-SEO and Content Strategy Research: We develop strategies based on keyword research and content trends to improve your site's visibility and search ranking
+**Brand Storytelling:** Crafting authentic narratives that connect emotionally with your audience and differentiate your brand.
 
-Technology and Platform Research: Our team evaluates the best technologies and platforms to ensure your website is built with the latest tools for optimal performance and scalability. the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to
+**Content Strategy Development:** Comprehensive content strategies aligned with business goals and audience needs.
+
+**Website Copy & Messaging:** Persuasive website content that clearly communicates value propositions and drives conversions.
